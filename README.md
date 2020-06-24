@@ -1,3 +1,10 @@
+### Self Instructions
+
++ Until a better alternative is found use `yarn start` like below to launch the app and edit locally
++ GitHub Pages is now tracking the master branch for deployment
++ Before attempting to deploy anything ensure the code is pushed/merged to origin/master
++ Then run `npm run deploy` to deploy the app to the website
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

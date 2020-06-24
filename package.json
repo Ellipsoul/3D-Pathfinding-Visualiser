@@ -1,6 +1,6 @@
 {
   "name": "3d-pathfinding-visualiser",
-  "homepage": "https://ellipsoul.github.io/3D-Pathfinding-Visualiser",
+  "homepage": "https://ellipsoul.github.io/3D-Pathfinding-Visualiser/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
