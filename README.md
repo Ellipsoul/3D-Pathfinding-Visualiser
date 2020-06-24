@@ -6,6 +6,7 @@
 + Then run `npm run deploy` to deploy the app to the website
 + Remember to refresh the cache as well!!
 + If there are any updates to the gh-pages branch just make sure it's pushed to the origin
++ You have to wait a bit with the "ready to be published" message. When the site is actually published and the message turns green showing published then the app is updated
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
