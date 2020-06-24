@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p> Testing editing within another branch</p>
+        <p> A second test with another branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
