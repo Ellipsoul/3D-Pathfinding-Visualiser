@@ -2360,6 +2360,11 @@ babylon@^6.18.0:
   resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
   integrity sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ==
 
+babylonjs-hook@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/babylonjs-hook/-/babylonjs-hook-0.0.1.tgz#a5a07bf927db0d7661795fef995e464975904a3b"
+  integrity sha512-mtfMyq1NMFvDHUODFSph0pVYzwbTLl2+85g5yW9hIDAWYndD00+6JxfrmgJ3tCQmkrcmqhMW/shlgRvv2aLIHA==
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -4073,6 +4078,11 @@ eslint-plugin-jsx-a11y@6.2.3:
     emoji-regex "^7.0.2"
     has "^1.0.3"
     jsx-ast-utils "^2.2.1"
+
+eslint-plugin-react-hooks@0.0.0-7f28234f8:
+  version "0.0.0-7f28234f8"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-0.0.0-7f28234f8.tgz#82cceb7889162ec02d13be7241bf1f945bcb3b17"
+  integrity sha512-GjxktLIAYKFFpT87wzbatMCv9jMMFjXIF7Rfg1or6iBx4qidigc2fzGvqHfBKCrBM3v8G8bdU5aIGbFogM+ROw==
 
 eslint-plugin-react-hooks@^1.6.1:
   version "1.7.0"
